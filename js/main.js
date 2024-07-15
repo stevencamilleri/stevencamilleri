@@ -156,4 +156,4 @@ titleAnim.to(titleText, {
     value: ""
   },
   ease: "sine.inOut"
-}, '+=0.8');
+}, '+=0.8'); 
